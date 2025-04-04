@@ -1,13 +1,15 @@
 #include <iostream>
 
 int main() {
-    char n = 'J';
-    int age = 49;
-    int birth_year = 1440;
-    char name [] = "Jesus";
+int x = 0;
+cout<<"ingrese un valor"<<x<<endl;
+cin>>x;
     
-    int year=birth_year+age;
-    printf("%s cumplirá %i años en %i.",name, age , year);
+int w= x-1;
+int y= x+1;
+int dob=x*2;
+cout<<"El numero "<<x<<" esta entre "<< w <<" y "<<y<<". El doble de "<<x<<" es "<<dob<<endl;
+
 
 
     return 0;
