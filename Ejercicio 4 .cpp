@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
   char robot_name[]="RC-21\\\\M2";
   cout<<"El robot "<<robot_name<< " tiene un mensaje."<<endl;
