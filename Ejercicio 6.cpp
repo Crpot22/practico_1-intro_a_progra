@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
  char n = 'J';
     int age = 49;
