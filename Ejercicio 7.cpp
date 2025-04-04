@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
 int x = 0;
 cout<<"ingrese un valor"<<x<<endl;
